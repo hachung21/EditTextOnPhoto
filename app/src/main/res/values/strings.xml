@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Trainning Photo</string>
+    <string name="Camera">Camera</string>
+    <string name="My_Image">My Image</string>
+    <string name="Check_update">Check Update</string>
+    <string name="Rate_us">Rate us</string>
+    <string name="navigation_draw_open">Open navigation drawer</string>
+    <string name="navigation_draw_close">Close navigation drawer</string>
+    <string name="add_text">Add Text</string>
+    <string-array name="colors_hex_code">
+        <item name="brightRed">#E30613</item>
+        <item name="darkGrey">#333333</item>
+        <item name="pureWhite">#FFFFFF</item>
+        <item name="link">#138184</item>
+        <item name="deepBlue">#001424</item>
+        <item name="midnightBlue">#202D3D</item>
+        <item name="greyRaven">#6E7782</item>
+        <item name="greyHeater">#BBC1C7</item>
+        <item name="linkWater">#E2E5EB</item>
+        <item name="whiteSmoke">#F2F3F7</item>
+        <item name="pitchBlack">#000000</item>
+        <item name="white30">#4C4C4C</item>
+        <item name="white40">#666666</item>
+        <item name="white50">#808080</item>
+        <item name="white60">#999999</item>
+        <item name="white70">#B3B3B3</item>
+        <item name="white80">#CCCCCC</item>
+        <item name="silver">#ADB8C1</item>
+        <item name="success">#39B54A</item>
+        <item name="warning">#F78A07</item>
+        <item name="softBlue">#5C7FE3</item>
+        <item name="lightBlue">#45B7FC</item>
+        <item name="lightGreen">#6AC788</item>
+        <item name="green">#AECB53</item>
+        <item name="softGreen">#AECB53</item>
+        <item name="warmYellow">#E9BF5B</item>
+        <item name="softOrange">#E57D63</item>
+        <item name="pink">#DB556F</item>
+        <item name="softPink">#CB6999</item>
+        <item name="softViolet">#A86EA7</item>
+    </string-array>
+
+
+</resources>
